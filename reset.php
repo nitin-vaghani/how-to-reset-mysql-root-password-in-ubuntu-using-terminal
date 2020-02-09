@@ -1,6 +1,6 @@
 If you have not allowed default no password then enable it first
 
-gedit /etc/phpmyadmin/config.inc.php
+sudo gedit /etc/phpmyadmin/config.inc.php
 
 Search: AllowNoPassowrd
 
