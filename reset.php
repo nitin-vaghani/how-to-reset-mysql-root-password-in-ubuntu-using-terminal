@@ -31,7 +31,7 @@ sudo mysqld_safe --skip-grant-tables --skip-networking &
 
 #On another console, log in without a password.
 
-mysql -u root mysql
+sudo mysql -u root mysql
 
 #Then:
 
